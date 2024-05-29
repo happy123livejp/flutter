@@ -1,1 +1,3 @@
-apple,apple,ˈæpl,n,1,l,"It's an apple",na,xxxxx
+{
+  "word" : "apple", "word2" : "apple", "sounds" : "ˈæpl"
+}
